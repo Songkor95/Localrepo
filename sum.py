@@ -1,4 +1,5 @@
-a = 5
-b = 10
+a = int(input("Enter a number: "))
+b = int(input("Enter a number: "))
+sum = a+b
 
-print(a + b)
+print(sum)
